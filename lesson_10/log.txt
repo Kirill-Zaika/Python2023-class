@@ -1,0 +1,20 @@
+
+---------START---------
+Adding numbers 8, 32, 110
+Result = 150
+----------END----------
+
+---------START---------
+Adding numbers 8, 32, 110
+Result = 150
+----------END----------
+
+---------START---------
+Adding numbers 8, 32, 110
+Result = 150
+----------END----------
+
+---------START---------
+Adding numbers 8, 32, 110
+Result = 150
+----------END----------
